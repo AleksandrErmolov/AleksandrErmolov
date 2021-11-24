@@ -1,4 +1,4 @@
-### Hi there https://github.com/AVS1508/AVS1508/raw/master/assets/Hand%20Wave.gif
+### Hi there ![image](https://user-images.githubusercontent.com/90044699/143268223-1bc5e908-2641-48b2-93e8-ee13bbeb5270.png)
 
 <!--
 **AleksandrErmolov/AleksandrErmolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://user-images.githubusercontent.com/90044699/143268044-7d014cb1-39a8-462a-b169-bb3a9ad14d7e.png)
+
