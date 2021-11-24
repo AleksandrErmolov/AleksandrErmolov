@@ -1,4 +1,4 @@
-### 👋Hi there! My name is AleksandrErmolov!
+### 👋Hi there! My name is Aleksandr Ermolov!
 👨‍💻I'm frontend-developer from Moscow, Russia.
 
 
