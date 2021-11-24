@@ -1,8 +1,8 @@
 ### 👋Hi there! My name is Aleksandr Ermolov!
-👨‍💻I'm frontend-developer from Moscow, Russia.
+### 👨‍💻I'm frontend-developer from Moscow, Russia.
 
 
-🛠️My skills🛠️
+### 🛠️My skills🛠️
 
 ![image](https://user-images.githubusercontent.com/90044699/143268347-f5e1bae6-9882-4e2b-869b-28b06565ffd7.png)
 ![image](https://user-images.githubusercontent.com/90044699/143268369-a61a7386-2d3a-4500-aa5a-961d12fe986f.png)
